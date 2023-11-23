@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run first-app:serve",
+    "startTime": "2023-11-23T15:07:30.659Z",
+    "endTime": "2023-11-23T15:07:43.798Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "first-app:serve:development",
+      "target": "serve",
+      "projectName": "first-app",
+      "hash": "11357360950187885118",
+      "startTime": "2023-11-23T15:07:30.665Z",
+      "endTime": "2023-11-23T15:07:43.797Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}
