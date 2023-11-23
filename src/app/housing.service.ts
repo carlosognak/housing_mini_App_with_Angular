@@ -122,6 +122,8 @@ export class HousingService {
   }
 
   submitApplication(firstName: string, lastName: string, email: string) {
-    throw new Error("Method not implemented.");
+    console.log(
+      `Application submitted for ${firstName} ${lastName} at ${email}`
+    );
   }
 }
