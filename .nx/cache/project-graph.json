@@ -12105,26 +12105,6 @@
         "source": "first-app",
         "target": "npm:typescript",
         "type": "static"
-      },
-      {
-        "source": "first-app",
-        "target": "npm:buffer",
-        "type": "static"
-      },
-      {
-        "source": "first-app",
-        "target": "npm:events",
-        "type": "static"
-      },
-      {
-        "source": "first-app",
-        "target": "npm:events",
-        "type": "dynamic"
-      },
-      {
-        "source": "first-app",
-        "target": "npm:string_decoder",
-        "type": "dynamic"
       }
     ],
     "npm:@ampproject/remapping": [
