@@ -43,84 +43,8 @@
     "projectFileMap": {
       "first-app": [
         {
-          "file": ".angular/cache/17.0.0-rc.2/first-app/.tsbuildinfo",
-          "hash": "14000647056189942162"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/@angular_common.js",
-          "hash": "1971268517374661507"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/@angular_common.js.map",
-          "hash": "9947606979680686569"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/@angular_core.js",
-          "hash": "5376513619020467954"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/@angular_core.js.map",
-          "hash": "9947606979680686569"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/@angular_forms.js",
-          "hash": "2141822495700684359"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/@angular_forms.js.map",
-          "hash": "1813812937750622238"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/@angular_platform-browser.js",
-          "hash": "13698228227127355160"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/@angular_platform-browser.js.map",
-          "hash": "9947606979680686569"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/@angular_router.js",
-          "hash": "9255222188504946721"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/@angular_router.js.map",
-          "hash": "6416557318718267862"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/_metadata.json",
-          "hash": "7206463892109774712"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/chunk-4MFZ6NFY.js",
-          "hash": "17021659711952956115"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/chunk-4MFZ6NFY.js.map",
-          "hash": "5856246978882453499"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/chunk-DYRXMIFT.js",
-          "hash": "17436290334166627475"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/chunk-DYRXMIFT.js.map",
-          "hash": "697518174338859129"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/chunk-YJS4SWXH.js",
-          "hash": "13798261581358421526"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/chunk-YJS4SWXH.js.map",
-          "hash": "11030568326716940432"
-        },
-        {
-          "file": ".angular/cache/17.0.0-rc.2/vite/deps/package.json",
-          "hash": "8630294688235076505"
-        },
-        {
           "file": ".gitignore",
-          "hash": "16930095216468283242"
+          "hash": "13782966459857363700"
         },
         {
           "file": "README.md",
@@ -206,7 +130,7 @@
         },
         {
           "file": "src/app/details/details.component.ts",
-          "hash": "8366916644305571510",
+          "hash": "16947788624188069195",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
@@ -220,7 +144,7 @@
         },
         {
           "file": "src/app/home/home.component.ts",
-          "hash": "2309732026034604790",
+          "hash": "17454021347525324946",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common"
