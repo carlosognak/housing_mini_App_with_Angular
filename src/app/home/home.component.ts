@@ -53,7 +53,7 @@ export class HomeComponent {
     );
   }
 
-  onKeydown(event) {
+  onKeydown(event: { key: string; }) {
     if (event.key === "Enter") {
       console.log(event);
     }

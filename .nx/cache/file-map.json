@@ -144,7 +144,7 @@
         },
         {
           "file": "src/app/home/home.component.ts",
-          "hash": "17454021347525324946",
+          "hash": "15188691854416623065",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common"
